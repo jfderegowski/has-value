@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.fefek5.has-value",
+  "version": "1.0.0",
+  "displayName": "Has Value",
+  "description": "Just a variable with unity custom property drawer serializing nice checkboxes and hides value if not set.",
+  "unity": "6000.0",
+  "author": {
+    "name": "fefek5",
+    "url": "https://github.com/jfderegowski"
+  },
+  "samples": [
+    {
+      "displayName": "Scripts that contains definitions of HasValue<T>",
+      "description": "Sample contains script \"HasValueSample.cs\" that shows how to use HasValue<T> in your code.",
+      "path": "Samples~/SamplesHasValueSample"
+    }
+  ]
+}

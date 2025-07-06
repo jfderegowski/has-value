@@ -1,12 +1,10 @@
 {
-    "name": "fefek5.Variables.HasValueVariable.Tests",
-    "rootNamespace": "",
+    "name": "fefek5.Variable.HasValue.Samples",
+    "rootNamespace": "fefek5.Variable.HasValue.Samples",
     "references": [
         "GUID:ef339ff94667f6a45a8ad82b7e3f8734"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

@@ -1,12 +1,8 @@
 {
-    "name": "fefek5.Variables.HasValueVariable.Editor",
-    "rootNamespace": "",
-    "references": [
-        "GUID:ef339ff94667f6a45a8ad82b7e3f8734"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "fefek5.Variable.HasValue.Runtime",
+    "rootNamespace": "fefek5.Variable.HasValue.Runtime",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
